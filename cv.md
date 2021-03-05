@@ -2,7 +2,7 @@
 ***
 ### CONTACT INFORMATION
 ***
- 
+tel: +375333476470   
 e-mail: anabuon@iclou.com  
 Discord: **anabuon(@anabuon)**  
 ***
