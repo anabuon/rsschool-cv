@@ -1,2 +1,2 @@
 
-https://anabuon.github.io/rsschool-cv/cv
+https://anabuon.github.io/rsschool-cv/
