@@ -1,0 +1,163 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 12pt;
+}
+
+h1 {
+  font-size: 3em;
+}
+
+h2 {
+  font-size: 2em;
+}
+
+h3 {
+  font-size: 1.5em;
+}
+
+body {
+  background-color: #ffffff;
+}
+
+.container {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.main-block {
+  display: flex;
+  width: 100%;
+}
+
+.side-panel {
+  width: 33%;
+  color: #524c4c;
+  background: linear-gradient(
+    90deg,
+    rgba(243, 150, 165, 0.322) 0%,
+    rgba(226, 160, 165, 0.438) 50%
+  );
+}
+
+.avatar {
+  display: block;
+  margin: 15% auto;
+  width: 70%;
+  border-radius: 2%;
+}
+
+.aside-section {
+  margin-bottom: 15%;
+  padding-right: 10%;
+}
+
+.aside-header {
+  margin-left: 15%;
+  padding-bottom: 5%;
+  border-bottom: 1px solid #d4a7a7;
+}
+
+.side-panel li {
+  list-style-type: none;
+  list-style-position: inside;
+  margin-top: 5%;
+  margin-bottom: 3%;
+  margin-left: 15%;
+}
+
+.contact-icon {
+  margin-right: 5%;
+}
+
+.hard-skills li {
+  list-style-type: none;
+}
+
+.meter {
+  width: 70%;
+  height: 10px;
+  margin-top: 3%;
+  background-color: #ad89899d;
+}
+
+.meter span {
+  display: block;
+  width: 70%;
+  height: 100%;
+  background-color: #a562629f;
+}
+
+.main-content {
+  width: 70%;
+  color: #424242;
+  background-color: rgba(221, 175, 175, 0.103);
+}
+
+header {
+  margin-top: 15%;
+  margin-left: 15%;
+  margin-bottom: 10%;
+}
+
+.main-section {
+  margin-right: 10%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+}
+
+.main-header {
+  padding-bottom: 3%;
+  border-bottom: 1px solid;
+  margin-bottom: 3%;
+}
+
+.icon {
+  margin-right: 5%;
+  font-size: 1.5em;
+}
+
+.main-block li {
+  list-style-position: inside;
+  margin-top: 2%;
+}
+
+ul li ul li {
+  padding-left: 10%;
+}
+
+.code-example {
+  display: block;
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.footer {
+  display: flex;
+  font-size: 1em;
+  padding-left: 75%;
+  padding-right: 7%;
+  padding-bottom: 5%;
+  padding-top: 5%;
+  justify-content: space-between;
+  align-items: center;
+  background-color: #b9787838;
+  color: rgba(26, 3, 9, 0.562);
+}
+
+.my-github-link {
+  text-decoration: none;
+}
+
+pre {
+  background-color: #c596963a;
+}
+
+.my-github-link:visited {
+  font-size: 1.5em;
+  color: rgb(104, 90, 101);
+}
